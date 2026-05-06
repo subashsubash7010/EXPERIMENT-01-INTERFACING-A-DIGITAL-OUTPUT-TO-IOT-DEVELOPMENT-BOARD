@@ -5,7 +5,7 @@
 
 **ROLL NO: 212224220109**
 
-**DEPARTMENT: AIDS**
+## DEPARTMENT: B.Tech IT
 
 ## Aim
 
